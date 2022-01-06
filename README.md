@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Paula R. Cardoso Bruno
+Meu nome é Paula R. Cardoso Bruno
 ### Hello World🌎
 Meu Nome é Paula 👋👨‍💻 Sou desenvolvedora Júnior, em JS, HTML e CSS.</br>
 👪 Sou casada, e tenho dois filhos</br>

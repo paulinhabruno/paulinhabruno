@@ -8,9 +8,9 @@ Meu Nome é Paula 👋👨‍💻 Sou desenvolvedora Júnior, em JS, HTML e CSS.
 🎓 &nbsp; Cursando Tecnólogo em Marketing(2020-2022)</br>
 🎓 &nbsp; Licenciatura em Letras (Português/Literatura(Aguardando estágio para conclusão)</br>
 💻 &nbsp; Curso Técnico em Eletrônica(1995-1998)</br>
-✍🏻 Sou escritora: Amazon writer romancista</br>
+✍🏻 Sou escritora: Amazon writer (romancist)</br>
 😋 Minha comida favorita é: Salmão.</br>
-🏈 Sports: NBA, NHL, NFL.
+🏈 Sports: NBA, NHL, NFL e natação.
 
 ### 🚀 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
